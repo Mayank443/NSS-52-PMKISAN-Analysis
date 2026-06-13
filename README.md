@@ -1,9 +1,9 @@
 🌾 PM-KISAN Enrollment Gap Analysis
 Team Members 
-Mayank Mandsourkar- 22321018
-Shubh Sharma - 22411036
-karan Batra-22411018
-Neritya kumar singh - 22410024
+Mayank Mandsourkar (22321018)
+Shubh Sharma (22411036)
+Karan Batra (22411018)
+Neritya Kumar Singh (22410024)
 ---
 
 ## 📌 Project Details
